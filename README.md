@@ -74,4 +74,19 @@ $$
   <img src="./images/motion_trajectory.gif" alt="Motion Trajectory Animation" width="600">
 </p>
 
-A real-time playback of the platform’s path through the test arena.
+A real-time playback of the platform’s path through the test area.
+
+### Acceleration
+
+<p align="center">
+  <img src="./images/imu_display_acc-1.png" alt="IMU Acceleration Preview" width="600"><br>
+</p>
+
+### Angular Velocity
+
+<p align="center">
+  <img src="./images/imu_display_gyro-1.png" alt="IMU Angular Velocity Preview" width="600"><br>
+</p>
+
+
+# Benchmark

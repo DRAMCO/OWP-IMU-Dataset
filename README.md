@@ -3,12 +3,3 @@
 # OWR-IMU-Dataset 
 In this paper, we collected RSS values at **27 Hz**, inertial measurement unit (IMU) at **200 Hz** and the ground truth at **160 Hz** in two indoor environments. The dataset includes over 110 K data points and covers more than 80 min. 
 
-## Dramco setup
-<p align="center">
-
-| ![Animation Demo](./images/Dramco_setup.gif) | ![Ceiling View](./images/ceiling.jpg)<br><br>The vehicle traverses the floor while on-board sensors capture RSS from ceiling-mounted infrared LEDs. |
-|:---:|:---:|
-
-</p>
-
----

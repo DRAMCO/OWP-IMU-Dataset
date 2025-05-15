@@ -10,7 +10,7 @@ This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Mea
 ## Dramco Setup
 
 <p align="center">
-  <img src="./images/Dramco_setup.gif" alt="Animation Demo" width="600">
+  <img src="./images/Dramco_setup.gif" alt="Animation Demo" width="200">
 </p>
 
 The vehicle traverses the floor while on-board sensors capture RSS values from ceiling-mounted infrared LEDs.

@@ -4,61 +4,11 @@
 In this paper, we collected RSS values at **27 Hz**, inertial measurement unit (IMU) at **200 Hz** and the ground truth at **160 Hz** in two indoor environments. The dataset includes over 110 K data points and covers more than 80 min. 
 
 ## Dramco setup
-<div style="display:flex; align-items:stretch; gap:1rem;">
+<p align="center">
 
-<!-- left column: original GIF -->
-<img
-src="./images/Dramco_setup.gif"
-alt="animation demo"
-width="600"
-style="flex-shrink:0;"
-/>
+| ![Animation Demo](./images/Dramco_setup.gif) | ![Ceiling View](./images/ceiling.jpg)<br><br>The vehicle traverses the floor while on-board sensors capture RSS from ceiling-mounted infrared LEDs. |
+|:---:|:---:|
 
-<!-- right column: top image + bottom text -->
-<div style="display:flex; flex-direction:column; justify-content:space-between;">
-
-<!-- top image -->
-<img
-    src="./images/ceiling.jpg"
-    alt="second image"
-    width="300"
-    style="flex-shrink:0;"
-/>
-
-<!-- bottom text -->
-<p>
-    The vehicle is moving on the ground with customized device to receive RSS values from infrared LEDs. 
 </p>
-  </div>
-</div>
 
-
-
-<div style="display:flex; align-items:flex-start; gap:16px;">
-
-  <img
-    src="./images/setup_sketch.jpg"
-    alt="animation demo"
-    width="300"
-    style="flex-shrink:0;"
-  />
-
-  <div>
-    <p>
-      Here 
-    </p>
-  </div>
-
-</div>
-
-
-
-
-## Benchmark
-
-### OWP 
-
-
-
-### EKF
-
+---

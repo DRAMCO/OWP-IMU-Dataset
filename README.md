@@ -92,31 +92,31 @@ A real-time playback of the platform’s path through the test area.
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/0.15_Speed_withoutOb.gif" alt="0.15 m/s Without Obstacle" width="600"><br>
+      <img src="./images/0.15_Speed_withoutOb.gif" alt="0.15 m/s Without Obstacle" width="400"><br>
       **0.15 m/s**
     </td>
     <td align="center">
-      <img src="./images/0.15_Speed_OB.gif" alt="0.15 m/s With Obstacle" width="600"><br>
+      <img src="./images/0.15_Speed_OB.gif" alt="0.15 m/s With Obstacle" width="400"><br>
       **0.15 m/s**
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/0.275_Speed_withoutOb.gif" alt="0.275 m/s Without Obstacle" width="600"><br>
+      <img src="./images/0.275_Speed_withoutOb.gif" alt="0.275 m/s Without Obstacle" width="400"><br>
       **0.275 m/s**
     </td>
     <td align="center">
-      <img src="./images/0.275_Speed_OB.gif" alt="0.275 m/s With Obstacle" width="600"><br>
+      <img src="./images/0.275_Speed_OB.gif" alt="0.275 m/s With Obstacle" width="400"><br>
       **0.275 m/s**
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/0.45_Speed_withoutOb.gif" alt="0.45 m/s Without Obstacle" width="600"><br>
+      <img src="./images/0.45_Speed_withoutOb.gif" alt="0.45 m/s Without Obstacle" width="400"><br>
       **0.45 m/s**
     </td>
     <td align="center">
-      <img src="./images/0.45_Speed_OB.gif" alt="0.45 m/s With Obstacle" width="600"><br>
+      <img src="./images/0.45_Speed_OB.gif" alt="0.45 m/s With Obstacle" width="400"><br>
       **0.45 m/s**
     </td>
   </tr>

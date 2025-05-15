@@ -45,21 +45,15 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
 </p>
 
 The LEDs orders are 
-$$
-\left[\begin{array}{ll}
-(4) & (3) \\
-(2) & (1)
-\end{array}\right]
-$$
+[ (4) (3) ]
+[ (2) (1) ]
 
-with corresponding coordinates
-$$
-\begin{aligned}
-& {[3.561,1.080],[3.561,2.910]} \\
-& {[5.975,1.080],[5.975,2.910]}
-\end{aligned}
-$$
+with corresponding coordinates:
 
+- **LED 4**: [3.561, 1.080] m  
+- **LED 3**: [3.561, 2.910] m  
+- **LED 2**: [5.975, 1.080] m  
+- **LED 1**: [5.975, 2.910] m
 
 **Table 2. Recorded Dataset Formats**
 
@@ -88,5 +82,42 @@ A real-time playback of the platform’s path through the test area.
   <img src="./images/imu_display_gyro-1.png" alt="IMU Angular Velocity Preview" width="600"><br>
 </p>
 
+## EKF Results
 
-# Benchmark
+<table align="center">
+  <tr>
+    <th>Without Obstacle</th>
+    <th>With Obstacle</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/0.15_Speed_withoutOb.gif" alt="0.15 m/s Without Obstacle" width="300"><br>
+      **0.15 m/s**
+    </td>
+    <td align="center">
+      <img src="./images/0.15_Speed_OB.gif" alt="0.15 m/s With Obstacle" width="300"><br>
+      **0.15 m/s**
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/0.275_Speed_withoutOb.gif" alt="0.275 m/s Without Obstacle" width="300"><br>
+      **0.275 m/s**
+    </td>
+    <td align="center">
+      <img src="./images/0.275_Speed_OB.gif" alt="0.275 m/s With Obstacle" width="300"><br>
+      **0.275 m/s**
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/0.45_Speed_withoutOb.gif" alt="0.45 m/s Without Obstacle" width="300"><br>
+      **0.45 m/s**
+    </td>
+    <td align="center">
+      <img src="./images/0.45_Speed_OB.gif" alt="0.45 m/s With Obstacle" width="300"><br>
+      **0.45 m/s**
+    </td>
+  </tr>
+</table>
+

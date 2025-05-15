@@ -1,4 +1,8 @@
-<img src="./images/kuleuven.png" alt="logo1" width="100" style="vertical-align:middle;" /> <img src="./images/logo-black.png" alt="logo2" width="80" style="vertical-align:middle;" />
+<p align="center">
+  <img src="./images/kuleuven.png" alt="KU Leuven Logo" width="100">
+  <img src="./images/logo-black.png" alt="Project Logo" width="80">
+</p>
+
 
 # OWR-IMU-Dataset 
 This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Measurement Unit (IMU) fusion positioning dataset comprising over **110 K** continuous samples collected over more than **80 minutes**. The data acquisition rates are:
@@ -45,3 +49,6 @@ Schematic annotation includes LED mounting positions
 <p align="center">
   <img src="./images/table2.png" alt="Recorded Dataset Formats" width="400">
 </p>
+
+
+## 

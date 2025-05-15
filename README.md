@@ -11,7 +11,7 @@ This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Mea
 - **IMU readings**: 200 Hz  
 - **Ground truth (position & attitude)**: 160 Hz  
 
-keywords: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
+**keywords**: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
 # Dramco Setup
 
 <p align="center">

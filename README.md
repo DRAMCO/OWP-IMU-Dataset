@@ -44,6 +44,23 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
   <img src="./images/table1_platform.png" alt="Platform Setup Parameters" width="400">
 </p>
 
+The LEDs orders are 
+$$
+\left[\begin{array}{ll}
+(4) & (3) \\
+(2) & (1)
+\end{array}\right]
+$$
+
+with corresponding coordinates
+$$
+\begin{aligned}
+& {[3.561,1.080],[3.561,2.910]} \\
+& {[5.975,1.080],[5.975,2.910]}
+\end{aligned}
+$$
+
+
 **Table 2. Recorded Dataset Formats**
 
 <p align="center">
@@ -51,4 +68,10 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
 </p>
 
 
-## 
+## Motion Trajectory
+
+<p align="center">
+  <img src="./images/motion_trajectory.gif" alt="Motion Trajectory Animation" width="600">
+</p>
+
+A real-time playback of the platform’s path through the test arena.

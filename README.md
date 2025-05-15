@@ -41,10 +41,11 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
 **Table 1. Platform Setup Parameters**
 
 <p align="center">
-  <img src="./images/table1.png" alt="Platform Setup Parameters" width="400">
+  <img src="./images/table1_platform.png" alt="Platform Setup Parameters" width="400">
 </p>
 
 **Table 2. Recorded Dataset Formats**
+
 <p align="center">
   <img src="./images/table2.png" alt="Recorded Dataset Formats" width="400">
 </p>

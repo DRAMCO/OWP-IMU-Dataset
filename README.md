@@ -4,13 +4,14 @@
 </p>
 
 
-# OWR-IMU-Dataset 
+# OWR-IMU-Dataset  
 This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Measurement Unit (IMU) fusion positioning dataset comprising over **110 K** continuous samples collected over more than **80 minutes**. The data acquisition rates are:
 
 - **RSS measurements**: 27 Hz  
 - **IMU readings**: 200 Hz  
 - **Ground truth (position & attitude)**: 160 Hz  
 
+keywords: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
 # Dramco Setup
 
 <p align="center">

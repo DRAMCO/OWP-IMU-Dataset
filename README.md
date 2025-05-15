@@ -19,26 +19,25 @@ This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Mea
 
 The vehicle traverses the floor while on-board sensors capture RSS values from ceiling-mounted infrared LEDs.
 
-## Ceiling View
+## Visual Overview
 
-<p align="center">
-  <img src="./images/ceiling.jpg" alt="Ceiling View" width="200">
-</p>
-
-The ceiling is equipped with four infrared LEDs, each modulated at a unique frequency for optical ranging calibration.
-
-
-## Setup Sketch
-
-<p align="center">
-  <img src="./images/setup_sketch.jpg" alt="Setup Sketch" width="200">
-</p>
-
-Schematic annotation includes LED mounting positions
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./images/ceiling.jpg" alt="Ceiling View" width="200">
+      <p align="center">The ceiling is equipped with four infrared LEDs, each modulated at a unique frequency for optical ranging calibration.</p>
+    </td>
+    <td align="center">
+      <img src="./images/setup_sketch.jpg" alt="Setup Sketch" width="200">
+      <p align="center">Schematic annotation includes LED mounting positions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # Datasets Details
+
 **Table 1. Platform Setup Parameters**
 
 <p align="center">

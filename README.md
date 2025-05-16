@@ -49,6 +49,7 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
 </p>
 
 The LEDs orders are 
+
 [ (4) (3) ]
 
 [ (2) (1) ]

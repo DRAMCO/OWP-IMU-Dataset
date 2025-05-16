@@ -12,6 +12,9 @@ This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Mea
 - **Ground truth (position & attitude)**: 160 Hz  
 
 **keywords**: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
+
+Download Link: https://github.com/DRAMCO/OWR-IMU-Dataset
+
 # Dramco Setup
 
 <p align="center">

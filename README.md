@@ -13,7 +13,7 @@ This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Mea
 
 **keywords**: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
 
-Download Link: https://github.com/DRAMCO/OWR-IMU-Dataset
+Download Link: [https://github.com/DRAMCO/OWR-IMU-Dataset](https://github.com/DRAMCO/OWR-IMU-Dataset)
 
 # Dramco Setup
 
@@ -50,6 +50,7 @@ The vehicle traverses the floor while on-board sensors capture RSS values from c
 
 The LEDs orders are 
 [ (4) (3) ]
+
 [ (2) (1) ]
 
 with corresponding coordinates:

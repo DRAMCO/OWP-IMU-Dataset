@@ -3,17 +3,15 @@
   <img src="./images/logo-black.png" alt="Project Logo" width="80">
 </p>
 
-
-# OWR-IMU-Dataset  
-This repository provides an indoor Optical Wireless Ranging (OWR) + Inertial Measurement Unit (IMU) fusion positioning dataset comprising over **110 K** continuous samples collected over more than **80 minutes**. The data acquisition rates are:
+This repository provides an indoor Optical Wireless Positioning (OWP) + Inertial Measurement Unit (IMU) fusion positioning dataset comprising over **110 K** continuous samples collected over more than **80 minutes**. The data acquisition rates are:
 
 - **RSS measurements**: 27 Hz  
 - **IMU readings**: 200 Hz  
 - **Ground truth (position & attitude)**: 160 Hz  
 
-**keywords**: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS).
+**keywords**: Visible Light Positioning (VLP), Indoor positioning dataset, infrared light, photodiode (PD), Indoor positioning service (IPS), Optical Wireless Positioning (OWP), Visible Light Communication (VLC).
 
-Download Link: [https://github.com/DRAMCO/OWR-IMU-Dataset](https://github.com/DRAMCO/OWR-IMU-Dataset)
+Download Link: [https://github.com/DRAMCO/OWP-IMU-Dataset](https://github.com/DRAMCO/OWP-IMU-Dataset)
 
 # Dramco Setup
 
@@ -98,31 +96,31 @@ A real-time playback of the platform’s path through the test area.
   <tr>
     <td align="center">
       <img src="./images/0.15_Speed_withoutOb.gif" alt="0.15 m/s Without Obstacle" width="400"><br>
-      **0.15 m/s**
+      Low Speed 0.15 m/s
     </td>
     <td align="center">
       <img src="./images/0.15_Speed_OB.gif" alt="0.15 m/s With Obstacle" width="400"><br>
-      **0.15 m/s**
+      Low Speed 0.15 m/s
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/0.275_Speed_withoutOb.gif" alt="0.275 m/s Without Obstacle" width="400"><br>
-      **0.275 m/s**
+      Medium Speed 0.275 m/s
     </td>
     <td align="center">
       <img src="./images/0.275_Speed_OB.gif" alt="0.275 m/s With Obstacle" width="400"><br>
-      **0.275 m/s**
+      Medium Speed 0.275 m/s
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/0.45_Speed_withoutOb.gif" alt="0.45 m/s Without Obstacle" width="400"><br>
-      **0.45 m/s**
+      High Speed 0.45 m/s
     </td>
     <td align="center">
       <img src="./images/0.45_Speed_OB.gif" alt="0.45 m/s With Obstacle" width="400"><br>
-      **0.45 m/s**
+      High Speed 0.45 m/s
     </td>
   </tr>
 </table>

@@ -13,6 +13,8 @@ This repository provides an indoor Optical Wireless Positioning (OWP) + Inertial
 
 Download Link: [https://github.com/DRAMCO/OWP-IMU-Dataset](https://github.com/DRAMCO/OWP-IMU-Dataset)
 
+Contributor: Fan Wu, Jorik De Bruycker, Daan Delabie.
+
 # Dramco Setup
 
 <p align="center">

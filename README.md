@@ -15,6 +15,22 @@ Download Link: [https://github.com/DRAMCO/OWP-IMU-Dataset](https://github.com/DR
 
 Contributor: Fan Wu, Jorik De Bruycker, Daan Delabie.
 
+Paper: https://arxiv.org/pdf/2505.16823
+
+Credits:
+```
+@misc{wu2025owpimurssbasedopticalwireless,
+      title={OWP-IMU: An RSS-based Optical Wireless and IMU Indoor Positioning Dataset}, 
+      author={Fan Wu and Jorik De Bruycker and Daan Delabie and Nobby Stevens and Francois Rottenberg and Lieven De Strycker},
+      year={2025},
+      eprint={2505.16823},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2505.16823}, 
+}
+```
+
+
 # Dramco Setup
 
 <p align="center">

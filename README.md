@@ -15,7 +15,7 @@ Download Link: [https://github.com/DRAMCO/OWP-IMU-Dataset](https://github.com/DR
 
 Contributor: Fan Wu, Jorik De Bruycker, Daan Delabie.
 
-Paper: https://arxiv.org/pdf/2505.16823
+Paper: [https://arxiv.org/pdf/2505.16823](https://arxiv.org/pdf/2505.16823)
 
 Credits:
 ```
